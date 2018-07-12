@@ -2,7 +2,7 @@ module.exports = {
    title: 'Hello vuePress',
    description: 'Test vuePress',
    // dest: 'docs/.vuepress/dist',
-   base:'/vuepress/',
+   base:'/',
    themeConfig: {
       // navbar: false,   //禁用所有导航栏
       nav: [
